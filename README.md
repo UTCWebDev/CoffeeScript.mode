@@ -10,5 +10,5 @@ for Coda 2.
 Installation
 ------------
 1. `cd ~/Library/Application\ Support/Coda\ 2/Modes`
-2. `git clone git@github.com:caseywebdev/CoffeeScript.mode`
+2. `git clone git@github.com:UTCWebDev/CoffeeScript.mode`
 3. (Re)Start Coda 2
